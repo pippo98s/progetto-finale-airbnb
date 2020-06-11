@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9769436c788f5f2343ec55686de154f3",
+    "content-hash": "7c84dfaf299cac06d3e5d0096b0ab75c",
     "packages": [
         {
             "name": "braintree/braintree_php",
@@ -719,6 +719,7 @@
                     "email": "jakub.onderka@gmail.com"
                 }
             ],
+            "abandoned": "php-parallel-lint/php-console-color",
             "time": "2018-09-29T17:23:10+00:00"
         },
         {
@@ -765,6 +766,7 @@
                 }
             ],
             "description": "Highlight PHP code in terminal",
+            "abandoned": "php-parallel-lint/php-console-highlighter",
             "time": "2018-09-29T18:48:56+00:00"
         },
         {
@@ -1378,6 +1380,7 @@
                 "markdown",
                 "table"
             ],
+            "abandoned": "league/commonmark",
             "time": "2019-09-26T13:28:33+00:00"
         },
         {

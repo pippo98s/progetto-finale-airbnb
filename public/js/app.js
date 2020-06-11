@@ -39166,7 +39166,7 @@ var render = function() {
             },
             on: { "click-address": _vm.setCoordinates }
           },
-          [_vm._v(_vm._s(result.address.freeformAddress) + "\r\n        ")]
+          [_vm._v(_vm._s(result.address.freeformAddress) + "\n        ")]
         )
       }),
       1
@@ -51839,10 +51839,10 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! D:\Boolean esercizi\progetto\test\progetto-finale-airbnb\resources\js\app.js */"./resources/js/app.js");
-__webpack_require__(/*! D:\Boolean esercizi\progetto\test\progetto-finale-airbnb\resources\sass\app.scss */"./resources/sass/app.scss");
-__webpack_require__(/*! D:\Boolean esercizi\progetto\test\progetto-finale-airbnb\resources\sass\address-search.scss */"./resources/sass/address-search.scss");
-module.exports = __webpack_require__(/*! D:\Boolean esercizi\progetto\test\progetto-finale-airbnb\resources\sass\address-tomtom.scss */"./resources/sass/address-tomtom.scss");
+__webpack_require__(/*! C:\Users\pip-p\Desktop\progetto-finale-airbnb-master (1)\progetto-finale-airbnb-master\resources\js\app.js */"./resources/js/app.js");
+__webpack_require__(/*! C:\Users\pip-p\Desktop\progetto-finale-airbnb-master (1)\progetto-finale-airbnb-master\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\pip-p\Desktop\progetto-finale-airbnb-master (1)\progetto-finale-airbnb-master\resources\sass\address-search.scss */"./resources/sass/address-search.scss");
+module.exports = __webpack_require__(/*! C:\Users\pip-p\Desktop\progetto-finale-airbnb-master (1)\progetto-finale-airbnb-master\resources\sass\address-tomtom.scss */"./resources/sass/address-tomtom.scss");
 
 
 /***/ })

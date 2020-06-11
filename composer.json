@@ -12,7 +12,7 @@
         "braintree/braintree_php": "^4.6",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "^6.2",
-        "laravel/passport": "^8.4",
+        "laravel/passport": "8.4",
         "laravel/tinker": "^2.0"
     },
     "require-dev": {

@@ -30,7 +30,7 @@
 
 
         @else
-          <h2>Al momento non sono presenti sponsorizzazioni attive.</h2>
+          <h2 id="communication">Al momento non sono presenti sponsorizzazioni attive.</h2>
 
         @endif
     </div>

@@ -365,6 +365,10 @@ main {
   }
 }
 
+.my_apt_sponsor .sponsorship-apt-list .my_box-apt #communication {
+  color: #ff5a60;
+}
+
 .my_apt_sponsor .sponsorship-apt-list .my_box-apt .apartment {
   background-color: #fff;
   flex-direction: column;
